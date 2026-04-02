@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=actions,apps,categories,devices,emblems,emotes,mimes,places,settings,status,colors/apps,colors/devices,colors/mimes,colors/places,colors/weather
+Directories=actions,apps,categories,devices,emotes,mimes,places,status,colors/apps,colors/devices,colors/mimes,colors/places,colors/weather
 
 [actions]
 Context=Actions
@@ -46,13 +46,6 @@ Type=Scalable
 
 [devices]
 Context=Devices
-Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[emblems]
-Context=Emblems
 Size=16
 MinSize=16
 MaxSize=512
