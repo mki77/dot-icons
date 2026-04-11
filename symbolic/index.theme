@@ -2,7 +2,7 @@
 Name=ToDo
 Comment=GNOME Icon Theme
 Example=folder
-Inherits=Adwaita,hicolor
+Inherits=Adwaita,breeze,hicolor
 
 # KDE Specific Stuff
 DisplayDepth=32
